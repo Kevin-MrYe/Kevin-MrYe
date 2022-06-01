@@ -17,8 +17,10 @@
 ### :man_technologist: About Me :
 I am studying to be a Data Engineer with AiCore :stars:
 - 🔭 Currently work on Data Collection Pipeline project.
-- 👨‍🎓 An IOT graduate from Southampton University.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bin-ye/)
+
+
+- 👨‍🎓 An Internet of Things graduate from University of Southampton.
+- 📫 You can reach me on  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=8)](https://www.linkedin.com/in/bin-ye/)
 <!--
 **Kevin-MrYe/Kevin-MrYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
