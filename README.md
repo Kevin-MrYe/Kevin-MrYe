@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -7,11 +6,19 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Kevin-MrYe&style=flat-square&color=blue" alt=""/>
-  <h2>
+  <h1>
     Hi there! Welcome to my Github
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  </h2>
+  </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
 
 <!--
 **Kevin-MrYe/Kevin-MrYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif
 -->
