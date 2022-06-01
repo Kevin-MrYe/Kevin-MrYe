@@ -45,5 +45,5 @@ I am studying to be a Data Engineer with AiCore :stars:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-MrYe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-MrYe&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-MrYe&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
