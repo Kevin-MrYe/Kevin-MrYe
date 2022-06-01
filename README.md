@@ -7,10 +7,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Kevin-MrYe&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h2>
+    Hi there! Welcome to my Github
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  </h2>
 </div>
 
 <!--
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
+https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 -->
