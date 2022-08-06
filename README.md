@@ -40,8 +40,8 @@ I am studying to be a Data Engineer with AiCore :stars:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Selenium" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Selenium" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 
 </div>
 
