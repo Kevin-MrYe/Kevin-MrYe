@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 I am studying to be a Data Engineer with AiCore :stars:
-- 🔭 Currently work on [Pinterest Pipeline](https://github.com/Kevin-MrYe/Pinterest_pipeline) project.
+- 🔭 Currently work on [Python_PCEP](https://github.com/Kevin-MrYe/Python_PCEP) project.
 
 
 - 👨‍🎓 An Internet of Things graduate from University of Southampton,UK.
