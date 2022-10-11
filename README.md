@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 I am studying to be a Data Engineer with AiCore :stars:
-- 🔭 Currently work on [Python_PCEP](https://github.com/Kevin-MrYe/Python_PCEP) project.
+- 🔭 Currently work on [Python_PCAP](https://github.com/Kevin-MrYe/Python_PCAP) project.
 
 
 - 👨‍🎓 An Internet of Things graduate from University of Southampton,UK.
